@@ -24,7 +24,7 @@ The "Random Gif Generator" is a web application that allows users to generate ra
 
 ## Preview
 
-![image](https://github.com/yashsarode45/Gif-generator/assets/65209607/92e8a891-9a49-49e0-80f6-ae659664e94b)
+![image](https://github.com/sabashaheen01/Gif-Generator/blob/1239cd129a2b381b6b4149f50f6929042b82d724/gif.png)
 
 ## Technologies
 
